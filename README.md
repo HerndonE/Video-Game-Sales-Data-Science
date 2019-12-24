@@ -16,22 +16,5 @@ Contributors
 Course: CST - 383
 Submission Date: 12/14/2019
 
+<th align="center"><a href="https://github.com/CruddyShad0w"><img src="https://avatars3.githubusercontent.com/u/38229188?s=460&amp;v=4" width="100px;" style="max-width:100%;"><br><sub><b>Kyle Hays</b></sub></a><br></th>
 
-import contributors from 'contributor-faces'
-
-// get an array of contributors
-contributors().then(...)
-
-// get contributors list as html
-contributors.render().then(...)
-
-// update contributors list in readme
-contributors.update().then(...)
-
-// exclude some contributors
-contributors('.', { exclude: '*-bot' }).then(...)
-
-contributor-faces [<directory>]
-[//]: contributor-faces
-<a href="https://github.com/alicias455"><img src="https://avatars0.githubusercontent.com/u/54601838?s=400&v=4" title="Alicia" width="80" height="80"></a>
-[//]: contributor-faces
