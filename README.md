@@ -16,7 +16,9 @@ The application can be run from within a jupyter notebook
 Course: CST - 383    
 Submission Date: 12/14/2019    
 
-<th align="center"> == $0 <a href="https://github.com/HerndonE"><img src="hhttps://avatars2.githubusercontent.com/u/16469939?s=460&v=4" width="100px;" style="max-width:100%;"><br><sub><b>Ethan Herndon</b></sub></a><br></th>
-
+<thead>
+<tr>
+<th align="center"><a href="https://github.com/HerndonE"><img src="https://avatars2.githubusercontent.com/u/16469939?s=460&v=4" width="100px;" style="max-width:100%;"><br><sub><b>Ethan Herndon</b></sub></a><br></th>
 <th align="center"><a href="https://github.com/alicias455"><img src="https://avatars0.githubusercontent.com/u/54601838?s=400&v=4" width="100px;" style="max-width:100%;"><br><sub><b>Alicia Sandoval</b></sub></a><br></th>
-
+</tr>
+</thead>
