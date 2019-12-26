@@ -10,7 +10,7 @@ is to predict Japan sales based on the genre, platform, and publisher.
 https://github.com/HerndonE/VideoGameSalesDataScience/blob/master/Video%20Game%20Sales%20with%20Ratings.ipynb
 
 # Usage
-The application can be run from within a jupyter notebook
+The application can be run from within jupyter notebook
 
 # Contributors
 Course: CST - 383    
